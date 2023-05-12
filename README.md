@@ -1,4 +1,4 @@
-# COVID Webscraper
+# COVID-19 Webscraper
 
 A python-based web scraper using BeautifulSoup to extract live global COVID-19 case data from https://www.worldometers.info/coronavirus/ into a csv file
 
